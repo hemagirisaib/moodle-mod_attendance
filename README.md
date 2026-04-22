@@ -25,3 +25,4 @@ Sessions can be configured to allow students to record their own attendance and 
 
 # DOCUMENTATION
 https://docs.moodle.org/en/Attendance_activity
+..............................................
